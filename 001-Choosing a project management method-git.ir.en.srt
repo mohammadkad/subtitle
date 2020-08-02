@@ -54,10 +54,10 @@ they can't even exist together at all.
 
 10
 00:00:29,07 --> 00:00:33,00
-However, in this course we compare Agile
+However, In this course we compare Agile
 
 
 
 11
 00:00:33,00 --> 00:00:35,04
-and traditional project frameworks.
+and traditional project frameworks:.
