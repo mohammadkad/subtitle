@@ -1,0 +1,85 @@
+1
+
+00:00:00,09 --> 00:00:04,07
+
+- Many organizations are shifting their project portfolios
+
+
+
+2
+
+00:00:04,07 --> 00:00:06,06
+
+to Agile frameworks.
+
+
+
+3
+
+00:00:06,06 --> 00:00:10,02
+
+However, even as the transition is taking place,
+
+
+
+4
+
+00:00:10,02 --> 00:00:12,07
+
+traditional methods remain.
+
+
+
+5
+
+00:00:12,07 --> 00:00:16,00
+
+In fact, in many cases both Agile
+
+
+
+6
+
+00:00:16,00 --> 00:00:20,05
+
+and traditional project methods continue to exist together.
+
+
+
+7
+
+00:00:20,05 --> 00:00:23,09
+
+But knowing how to do that effectively can be a challenge.
+
+
+
+8
+
+00:00:23,09 --> 00:00:26,04
+
+In fact, a lot of people think
+
+
+
+9
+
+00:00:26,04 --> 00:00:29,07
+
+they can't even exist together at all.
+
+
+
+10
+
+00:00:29,07 --> 00:00:33,00
+
+However, in this course we compare Agile
+
+
+
+11
+
+00:00:33,00 --> 00:00:35,04
+
+and traditional project frameworks.
